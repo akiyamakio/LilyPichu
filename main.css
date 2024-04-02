@@ -1785,7 +1785,7 @@
 
 :root [class*=notAppAsidePanel] > [class*=app] > [class*=app] > [class*=bg]::before {
   z-index: 2;
-  bottom: 30%;
+  bottom: 20%;
   right: 400px;
   width: 120px;
   height: 160px;
