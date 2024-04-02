@@ -1783,7 +1783,14 @@
   background-size: 100% !important;
 }
 
-
+:root [class*=notAppAsidePanel] > [class*=app] > [class*=app] > [class*=bg]::before {
+  z-index: 2;
+  bottom: 20%;
+  right: 420px;
+  width: 90px;
+  height: 120px;
+  background: url("https://i.imgur.com/20PbezQ.png") no-repeat;
+}
 
 @media (max-width: 1350px) {
   :root .bg__12180::before {
