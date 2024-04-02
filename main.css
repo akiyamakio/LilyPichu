@@ -1717,8 +1717,8 @@
   position: absolute;
   bottom: 100px;
   left: 50px;
-  width: 200px;
-  height: 200px;
+  width: 350px;
+  height: 350px;
   background: var(--jumping-gif) center/80% no-repeat;
 }
 :root .container__871ba[style*="background-color: var(--green-360)"] {
