@@ -1783,6 +1783,15 @@
   background-size: 100% !important;
 }
 
+:root [class*=notAppAsidePanel] > [class*=app] > [class*=app] > [class*=bg]::before {
+  z-index: 2;
+  bottom: 30%;
+  right: 430px;
+  width: 30px;
+  height: 40px;
+  background: url("https://media.tenor.com/RxbXY3mB_KIAAAAi/winnie-the.gif") no-repeat;
+}
+
 @media (max-width: 1350px) {
   :root .bg__12180::before {
     display: none;
