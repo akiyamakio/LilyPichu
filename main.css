@@ -1786,7 +1786,7 @@
 :root [class*=notAppAsidePanel] > [class*=app] > [class*=app] > [class*=bg]::before {
   z-index: 2;
   bottom: 30%;
-  right: 430px;
+  right: 400px;
   width: 120px;
   height: 160px;
   background: url("https://i.imgur.com/20PbezQ.png") no-repeat;
