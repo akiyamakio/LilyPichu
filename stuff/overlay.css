@@ -5,6 +5,16 @@
   pointer-events: none;
 }
 
+:root .bg-1QIAus::before {
+  z-index: 2;
+  bottom: 30%;
+  right: 430px;
+  width: 30px;
+  height: 40px;
+  background: url("https://media.tenor.com/RxbXY3mB_KIAAAAi/winnie-the.gif") no-repeat;
+  background-size: 100%;
+}
+
 @media (max-width: 1350px) {
   :root .bg-1QIAus::before {
     display: none;
