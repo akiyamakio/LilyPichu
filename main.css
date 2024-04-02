@@ -1823,7 +1823,7 @@
     margin-right: 450px;
   }
   [class*=layers] > [class*=layer] > [class*=container]::after {
-    content: "Stay comfy";
+    content: "Oh Bother";
     position: fixed;
     top: 220px;
     bottom: 85px;
